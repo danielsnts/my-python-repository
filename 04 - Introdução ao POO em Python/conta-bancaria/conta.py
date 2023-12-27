@@ -1,5 +1,5 @@
 class Conta:
-    def __init__(self, numero, titular, saldo, limite):
+    def __init__(self, numero, titular, saldo, limite): # Método Especial
         self.numero = numero
         self.titular = titular
         self.saldo = saldo
